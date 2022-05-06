@@ -1,0 +1,4 @@
+node_modules
+solidity/.env
+solidity/artifacts
+solidity/cache
