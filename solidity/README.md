@@ -5,8 +5,8 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 Try running some of the following tasks:
 
 ```shell
-npx hardhat scripts/run.js
+npx hardhat run scripts/run.js
 npx hardhat node
-npx hardhat scripts/deploy.js --network localhost
+npx hardhat run scripts/deploy.js --network localhost
 npx hardhat run scripts/deploy.js --network rinkeby
 ```
